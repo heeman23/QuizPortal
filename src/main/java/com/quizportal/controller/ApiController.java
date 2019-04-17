@@ -12,7 +12,7 @@ public class ApiController {
 @GetMapping("/")	
 public String test() {
 	
-	return "hi";
+	return "hello";
 	
 }	
 	
